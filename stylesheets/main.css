@@ -12,6 +12,7 @@ a { color: white;}
 }
 
 .midnav {
+    word-spacing: 1em;
     background-color: #595d63;
     overflow: hidden;
     padding: 10px;
@@ -30,6 +31,7 @@ a { color: white;}
 }
 
 .right {
+    margin-top: 5px;
     float: right;
     width: 25%;
 }
@@ -41,8 +43,8 @@ a { color: white;}
 }
 
 .bottom {
-  background-color: white;
+  background-color: #595d63;
   overflow: hidden;
   padding: 10px;
-  color: black;
+  color: white;
 }
