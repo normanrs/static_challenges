@@ -1,0 +1,48 @@
+a { color: white;}
+
+.all {
+    margin: 15px;
+    font-family: "Verdana", Verdana, sans-serif;
+}
+
+.topnav {
+    background-color: #BC1919;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.midnav {
+    background-color: #595d63;
+    overflow: hidden;
+    padding: 10px;
+    color: white;
+}
+
+/* .right {
+    padding: 10px;
+    float: right;
+    width: 20%;
+} */
+
+.left {
+    float: left;
+    width: 70%;
+}
+
+.right {
+    float: right;
+    width: 25%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.bottom {
+  background-color: white;
+  overflow: hidden;
+  padding: 10px;
+  color: black;
+}
